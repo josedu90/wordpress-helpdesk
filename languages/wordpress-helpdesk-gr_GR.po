@@ -1,0 +1,2322 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress TotalDesk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-15 10:12+0000\n"
+"PO-Revision-Date: 2018-06-15 10:13+0000\n"
+"Last-Translator: DB-Dzine <contact@db-dzine.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: wordpress-helpdesk.php:95
+msgid ""
+"WordPress Helpdesk requires the Redux Framework Please install or activate "
+"it before!"
+msgstr "Το WordPress Helpdesk απαιτεί το Redux Framework Παρακαλώ εγκαταστήστε ή ενεργοποιήστε το πριν!"
+
+#: admin/class-wordpress-helpdesk-form.php:91 admin/views/single-ticket.php:37
+msgid "< Back to My Tickets"
+msgstr "<Πίσω στα Εισιτήρια μου"
+
+#: admin/class-wordpress-helpdesk-form.php:105
+msgid "Recaptcha not passed!"
+msgstr "Η Recaptcha δεν πέρασε!"
+
+#: admin/class-wordpress-helpdesk-form.php:112
+#, php-format
+msgid ""
+"Ticket successfully created! You can <a href=\"%s\">view it here</a>.<br/>"
+msgstr "Το εισιτήριο δημιουργήθηκε με επιτυχία! Μπορείτε να το <a href=\"% %s \"> προβάλετε εδώ </a>. <br/>"
+
+#: admin/class-wordpress-helpdesk-form.php:118
+msgid "Ticket could not be created!"
+msgstr "Δεν ήταν δυνατή η δημιουργία εισιτηρίου!"
+
+#: admin/class-wordpress-helpdesk-form.php:142
+#: admin/class-wordpress-helpdesk-form.php:148
+#, php-format
+msgid "Please <a href=\"%s\" title=\"Login\">login to submit a ticket.</a>"
+msgstr "Παρακαλούμε <a href=\"% %s \" title=\"Login\"> συνδεθείτε για να υποβάλετε ένα εισιτήριο. </a>"
+
+#: admin/class-wordpress-helpdesk-form.php:190
+msgid "Create Ticket"
+msgstr "Δημιουργία εισιτηρίου"
+
+#: admin/class-wordpress-helpdesk-form.php:228
+msgid "Order Support"
+msgstr "Υποστήριξη παραγγελιών"
+
+#: admin/class-wordpress-helpdesk-form.php:238
+msgid "Product Support"
+msgstr "Υποστήριξη προιόντος"
+
+#: admin/class-wordpress-helpdesk-form.php:247
+msgid "Other"
+msgstr "Αλλα"
+
+#: admin/class-wordpress-helpdesk-form.php:266
+msgid "Your Name (required)"
+msgstr "Το όνομά σας (απαιτείται)"
+
+#: admin/class-wordpress-helpdesk-form.php:282
+msgid "Your Email (required)"
+msgstr "Το email σας (απαιτείται)"
+
+#: admin/class-wordpress-helpdesk-form.php:298
+#: admin/class-wordpress-helpdesk-form.php:315
+msgid "Subject (required)"
+msgstr "Θέμα (απαιτείται)"
+
+#: admin/class-wordpress-helpdesk-form.php:333
+msgid "Message (required) "
+msgstr "Μήνυμα (απαιτείται) "
+
+#: admin/class-wordpress-helpdesk-form.php:360
+msgid "Department (required)"
+msgstr "Τμήμα (απαιτείται)"
+
+#: admin/class-wordpress-helpdesk-form.php:362
+msgid "Select a Department"
+msgstr "Επιλέξτε ένα Τμήμα"
+
+#: admin/class-wordpress-helpdesk-form.php:395
+msgid "Priority (required)"
+msgstr "Προτεραιότητα (απαιτείται)"
+
+#: admin/class-wordpress-helpdesk-form.php:397
+msgid "Select a priority"
+msgstr "Επιλέξτε μια προτεραιότητα"
+
+#: admin/class-wordpress-helpdesk-form.php:430
+msgid "Type (required)"
+msgstr "Τύπος (απαιτείται)"
+
+#: admin/class-wordpress-helpdesk-form.php:432
+msgid "Select a type"
+msgstr "Επιλέξτε έναν τύπο"
+
+#: admin/class-wordpress-helpdesk-form.php:468
+msgid "Your Order"
+msgstr "Παραγγελία σας"
+
+#: admin/class-wordpress-helpdesk-form.php:470
+msgid "Select your Order"
+msgstr "Επιλέξτε την παραγγελία σας"
+
+#: admin/class-wordpress-helpdesk-form.php:490
+msgid "Where is my stuff?"
+msgstr "Πού είναι τα πράγματά μου?"
+
+#: admin/class-wordpress-helpdesk-form.php:491
+msgid "Problem with an order"
+msgstr "Πρόβλημα με μια παραγγελία"
+
+#: admin/class-wordpress-helpdesk-form.php:492
+msgid "Returns and refunds"
+msgstr "Επιστροφές και επιστροφές"
+
+#: admin/class-wordpress-helpdesk-form.php:493
+msgid "Gift Cards"
+msgstr "Δωροκάρτες"
+
+#: admin/class-wordpress-helpdesk-form.php:494
+msgid "Payment issues"
+msgstr "Ζητήματα πληρωμής"
+
+#: admin/class-wordpress-helpdesk-form.php:495
+msgid "Change an order"
+msgstr "Αλλαγή παραγγελίας"
+
+#: admin/class-wordpress-helpdesk-form.php:496
+msgid "Promotions and deals"
+msgstr "Προσφορές και προσφορές"
+
+#: admin/class-wordpress-helpdesk-form.php:497
+msgid "More order issues"
+msgstr "Περισσότερα ζητήματα παραγγελιών"
+
+#: admin/class-wordpress-helpdesk-form.php:502
+msgid "Your Subject"
+msgstr "Το θέμα σου"
+
+#: admin/class-wordpress-helpdesk-form.php:504
+msgid "Select your Subject"
+msgstr "Επιλέξτε το θέμα σας"
+
+#: admin/class-wordpress-helpdesk-form.php:537
+msgid "Product"
+msgstr "Προϊόν"
+
+#: admin/class-wordpress-helpdesk-form.php:539
+msgid "Select your product"
+msgstr "Επιλέξτε το προϊόν σας"
+
+#: admin/class-wordpress-helpdesk-form.php:568 admin/options-init.php:549
+msgid "Purchase Code"
+msgstr "Κωδικός αγοράς"
+
+#: admin/class-wordpress-helpdesk-form.php:590
+msgid "Select Item"
+msgstr "Επιλέξτε αντικείμενο"
+
+#: admin/class-wordpress-helpdesk-form.php:592
+msgid "Select an Item"
+msgstr "ΕΠΕΛΕΞΕ ΕΝΑ ΑΝΤΙΚΕΙΜΕΝΟ"
+
+#: admin/class-wordpress-helpdesk-form.php:644 admin/options-init.php:500
+#: admin/options-init.php:537 admin/options-init.php:587
+msgid "Website URL"
+msgstr "Διεύθυνση Ιστοσελίδας"
+
+#: admin/class-wordpress-helpdesk-form.php:664
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:340
+#: admin/class-wordpress-helpdesk-attachments.php:62
+#: admin/views/single-ticket.php:165
+msgid "Attachments"
+msgstr "Συνημμένα"
+
+#: admin/class-wordpress-helpdesk-notifications.php:46
+#: admin/class-wordpress-helpdesk-support-rating.php:72
+#: admin/class-wordpress-helpdesk-my-tickets.php:191
+msgid "View Ticket"
+msgstr "Προβολή εισιτηρίου"
+
+#: admin/class-wordpress-helpdesk-notifications.php:90
+#: admin/class-wordpress-helpdesk-log.php:115
+msgid "New Ticket created"
+msgstr "Δημιουργήθηκε νέο εισιτήριο"
+
+#: admin/class-wordpress-helpdesk-notifications.php:94
+#, php-format
+msgid "A Ticket with the ID %s has been created"
+msgstr "Έχει δημιουργηθεί ένα εισιτήριο με το αναγνωριστικό %s"
+
+#: admin/class-wordpress-helpdesk-notifications.php:156
+#: admin/class-wordpress-helpdesk-log.php:151
+#, php-format
+msgid "%s changed from %s to %s"
+msgstr "%s άλλαξε από %s σε %s"
+
+#: admin/class-wordpress-helpdesk-notifications.php:160
+#, php-format
+msgid "The %s has changed from %s to %s"
+msgstr "Το %s έχει αλλάξει από %s σε %s"
+
+#: admin/class-wordpress-helpdesk-notifications.php:191
+#: admin/class-wordpress-helpdesk-slack.php:192
+#: admin/class-wordpress-helpdesk-log.php:160
+#, php-format
+msgid "%s changed to: %s"
+msgstr "%s άλλαξε σε: %s"
+
+#: admin/class-wordpress-helpdesk-notifications.php:195
+#, php-format
+msgid "The %s changed to: %s"
+msgstr "Το %s άλλαξε σε: %s"
+
+#: admin/class-wordpress-helpdesk-notifications.php:255
+#: admin/class-wordpress-helpdesk-log.php:199
+msgid "Comment added"
+msgstr "Σχόλιο προστέθηκε"
+
+#: admin/class-wordpress-helpdesk-notifications.php:259
+#, php-format
+msgid "New comment added by %s"
+msgstr "Νέο σχόλιο που προστέθηκε από το %s"
+
+#: admin/class-wordpress-helpdesk-notifications.php:325
+#: admin/class-wordpress-helpdesk-notifications.php:334
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:583
+#: admin/class-wordpress-helpdesk-slack.php:231
+#: admin/class-wordpress-helpdesk-slack.php:240
+#: admin/class-wordpress-helpdesk-log.php:238
+#: admin/class-wordpress-helpdesk-log.php:247
+#: admin/class-wordpress-helpdesk-reports.php:168
+msgid "Unassigned"
+msgstr "Δεν έχει εκχωρηθεί"
+
+#: admin/class-wordpress-helpdesk-notifications.php:342
+#: admin/class-wordpress-helpdesk-notifications.php:399
+#: admin/class-wordpress-helpdesk-slack.php:291
+#: admin/class-wordpress-helpdesk-log.php:263
+#: admin/class-wordpress-helpdesk-log.php:298
+#, php-format
+msgid "Assigned to %s"
+msgstr "Ανατίθεται στο %s"
+
+#: admin/class-wordpress-helpdesk-notifications.php:347
+#, php-format
+msgid "This ticket has been assigned from %s to %s"
+msgstr "Αυτό το εισιτήριο έχει εκχωρηθεί από το %s στο %s"
+
+#: admin/class-wordpress-helpdesk-notifications.php:404
+#, php-format
+msgid "This ticket has been assigned to %s"
+msgstr "Αυτό το εισιτήριο έχει αντιστοιχιστεί στο %s"
+
+#: admin/class-wordpress-helpdesk-sidebar-widgets.php:48
+msgid "Helpdesk Sidebar"
+msgstr "Πλευρική γραμμή γραφείου υποστήριξης"
+
+#: admin/class-wordpress-helpdesk-sidebar-widgets.php:50
+msgid "Widgets in this area will be shown on all posts and pages."
+msgstr "Τα widgets σε αυτήν την περιοχή θα εμφανίζονται σε όλες τις αναρτήσεις και τις σελίδες."
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:101
+#: admin/class-wordpress-helpdesk-livechat-backend.php:183
+msgid "Ticket could not be created. Please contact support email directly."
+msgstr "Δεν ήταν δυνατή η δημιουργία εισιτηρίου. Επικοινωνήστε απευθείας με το ηλεκτρονικό ταχυδρομείο υποστήριξης."
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:112
+#: admin/class-wordpress-helpdesk-livechat-backend.php:195
+#, php-format
+msgid "A seperate Chat-Ticket with the ID %s has been created."
+msgstr "Δημιουργήθηκε ξεχωριστό εισιτήριο συνομιλίας με το αναγνωριστικό %s ."
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:160
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:216
+#: admin/class-wordpress-helpdesk-livechat-backend.php:320
+#: admin/class-wordpress-helpdesk-livechat-backend.php:439
+msgid "Ticket not set."
+msgstr "Το εισιτήριο δεν έχει οριστεί."
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:224
+#: admin/class-wordpress-helpdesk-livechat-backend.php:447
+msgid "Ticket does not exists."
+msgstr "Το εισιτήριο δεν υπάρχει."
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:234
+#: admin/class-wordpress-helpdesk-livechat-backend.php:457
+msgid "This is not your Ticket!"
+msgstr "Αυτό δεν είναι το εισιτήριό σας!"
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:300
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:116
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:338
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1028
+#: admin/class-wordpress-helpdesk-livechat-backend.php:523
+msgid "Ticket"
+msgstr "Εισιτήριο"
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:403
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:513
+#: admin/class-wordpress-helpdesk-livechat-backend.php:252
+msgid "Type your message…"
+msgstr "Πληκτρολογήστε το μήνυμά σας ..."
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:469
+msgid "Visitor"
+msgstr "Επισκέπτης"
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:501
+msgid "Your Name"
+msgstr "Το όνομα σου"
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:504
+msgid "Your Email"
+msgstr "Η διεύθυνση του ηλεκτρονικού σου ταχυδρομείου"
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:510
+msgid "Subject"
+msgstr "Θέμα"
+
+#: admin/class-wordpress-helpdesk-livechat-frontend.php:517
+msgid "Or enter your Ticket ID:"
+msgstr "Ή εισάγετε το αναγνωριστικό εισιτηρίου σας:"
+
+#: admin/class-wordpress-helpdesk-support-rating.php:88
+msgid "No Ticket ID set."
+msgstr "Δεν έχει οριστεί αναγνωριστικό εισιτηρίων."
+
+#: admin/class-wordpress-helpdesk-support-rating.php:94
+msgid "Please set a feedback text."
+msgstr "Ορίστε ένα κείμενο ανατροφοδότησης."
+
+#: admin/class-wordpress-helpdesk-support-rating.php:108
+msgid "Feedback received. Thanks!"
+msgstr "Η λήψη σχολίων. Ευχαριστώ!"
+
+#: admin/class-wordpress-helpdesk-support-rating.php:112
+msgid "Wrong satisfied value."
+msgstr "Λάθος ικανοποιημένη αξία."
+
+#: admin/class-wordpress-helpdesk-support-rating.php:130
+msgid "Thanks for your feedback!"
+msgstr "Ευχαριστούμε για την ανταπόκριση σας!"
+
+#: admin/class-wordpress-helpdesk-support-rating.php:148
+msgid "We would be happy if you leave a feedback message:"
+msgstr "Θα χαρούμε να αφήσετε ένα μήνυμα ανάδρασης:"
+
+#: admin/class-wordpress-helpdesk-support-rating.php:152
+msgid "Send Feedback"
+msgstr "Στείλετε τα σχόλιά σας"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:117
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:120
+msgid "Tickets"
+msgstr "Εισιτήρια"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:121
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:185
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:222
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:259
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:296
+#: admin/class-wordpress-helpdesk-saved-replies.php:149
+#: admin/class-wordpress-helpdesk-saved-replies.php:214
+#: admin/class-wordpress-helpdesk-saved-replies.php:250
+#: admin/class-wordpress-helpdesk-faq-post-type.php:516
+#: admin/class-wordpress-helpdesk-faq-post-type.php:586
+#, php-format
+msgid "All %s"
+msgstr "Όλα τα %s"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:123
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:126
+#: admin/class-wordpress-helpdesk-saved-replies.php:151
+#: admin/class-wordpress-helpdesk-saved-replies.php:154
+#: admin/class-wordpress-helpdesk-faq-post-type.php:518
+#: admin/class-wordpress-helpdesk-faq-post-type.php:521
+#, php-format
+msgid "New %s"
+msgstr "Νέο %s"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:124
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:190
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:227
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:264
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:301
+#: admin/class-wordpress-helpdesk-saved-replies.php:152
+#: admin/class-wordpress-helpdesk-saved-replies.php:219
+#: admin/class-wordpress-helpdesk-saved-replies.php:255
+#: admin/class-wordpress-helpdesk-faq-post-type.php:519
+#: admin/class-wordpress-helpdesk-faq-post-type.php:591
+#, php-format
+msgid "Add New %s"
+msgstr "Προσθέστε νέο %s"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:125
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:188
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:225
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:262
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:299
+#: admin/class-wordpress-helpdesk-saved-replies.php:153
+#: admin/class-wordpress-helpdesk-saved-replies.php:217
+#: admin/class-wordpress-helpdesk-saved-replies.php:253
+#: admin/class-wordpress-helpdesk-faq-post-type.php:520
+#: admin/class-wordpress-helpdesk-faq-post-type.php:589
+#, php-format
+msgid "Edit %s"
+msgstr "Επεξεργασία %s"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:127
+#: admin/class-wordpress-helpdesk-saved-replies.php:155
+#: admin/class-wordpress-helpdesk-faq-post-type.php:522
+#, php-format
+msgid "View %s"
+msgstr "Προβολή %s"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:128
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:184
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:221
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:258
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:295
+#: admin/class-wordpress-helpdesk-saved-replies.php:156
+#: admin/class-wordpress-helpdesk-saved-replies.php:213
+#: admin/class-wordpress-helpdesk-saved-replies.php:249
+#: admin/class-wordpress-helpdesk-faq-post-type.php:523
+#: admin/class-wordpress-helpdesk-faq-post-type.php:585
+#, php-format
+msgid "Search %s"
+msgstr "Αναζήτηση %s"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:129
+#: admin/class-wordpress-helpdesk-saved-replies.php:157
+#: admin/class-wordpress-helpdesk-faq-post-type.php:524
+#, php-format
+msgid "No %s found"
+msgstr "Δεν βρέθηκε %s"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:130
+#: admin/class-wordpress-helpdesk-saved-replies.php:158
+#: admin/class-wordpress-helpdesk-faq-post-type.php:525
+#, php-format
+msgid "No %s found in trash"
+msgstr "Δεν βρέθηκαν %s σε κάδο απορριμμάτων"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:178
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:179
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1031
+#: admin/class-wordpress-helpdesk-exporter.php:185
+#: admin/class-wordpress-helpdesk-my-tickets.php:118
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:186
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:223
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:260
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:297
+#: admin/class-wordpress-helpdesk-saved-replies.php:215
+#: admin/class-wordpress-helpdesk-saved-replies.php:251
+#: admin/class-wordpress-helpdesk-faq-post-type.php:587
+#, php-format
+msgid "Parent %s"
+msgstr "Γονικός %s"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:187
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:224
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:261
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:298
+#: admin/class-wordpress-helpdesk-saved-replies.php:216
+#: admin/class-wordpress-helpdesk-saved-replies.php:252
+#: admin/class-wordpress-helpdesk-faq-post-type.php:588
+#, php-format
+msgid "Parent %s:"
+msgstr "Γονικός %s :"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:189
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:226
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:263
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:300
+#: admin/class-wordpress-helpdesk-saved-replies.php:218
+#: admin/class-wordpress-helpdesk-saved-replies.php:254
+#: admin/class-wordpress-helpdesk-faq-post-type.php:590
+#, php-format
+msgid "Update %s"
+msgstr "Ενημέρωση %s"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:191
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:228
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:265
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:302
+#: admin/class-wordpress-helpdesk-saved-replies.php:220
+#: admin/class-wordpress-helpdesk-saved-replies.php:256
+#: admin/class-wordpress-helpdesk-faq-post-type.php:592
+#, php-format
+msgid "New %s Name"
+msgstr "Νέο όνομα %s"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:215
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1033
+#: admin/class-wordpress-helpdesk-exporter.php:191
+#: admin/class-wordpress-helpdesk-my-tickets.php:124
+msgid "Type"
+msgstr "Τύπος"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:216
+msgid "Types"
+msgstr "Τύποι"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:252
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1034
+#: admin/class-wordpress-helpdesk-my-tickets.php:121
+msgid "Department"
+msgstr "Τμήμα"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:253
+msgid "Departments"
+msgstr "Τμήματα"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:289
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1035
+#: admin/class-wordpress-helpdesk-exporter.php:197
+#: admin/views/single-ticket.php:85
+msgid "Priority"
+msgstr "Προτεραιότητα"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:290
+msgid "Priorities"
+msgstr "Προτεραιότητες"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:339
+msgid "Merge Ticket"
+msgstr "Συγχώνευση εισιτηρίου"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:343
+msgid "Feedback:"
+msgstr "Ανατροφοδότηση:"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:366
+msgid "Website:"
+msgstr "Δικτυακός τόπος:"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:405
+msgid "Select Ticket"
+msgstr "Επιλέξτε Ticket"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:412
+msgid "Merge Now"
+msgstr "Συγχώνευση τώρα"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:430
+#: admin/class-wordpress-helpdesk-faq-post-type.php:660
+msgid "No ticket to duplicate has been supplied!"
+msgstr "Δεν δόθηκε εισιτήριο για την αναπαραγωγή!"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:457
+msgid "Could not Merge Ticket."
+msgstr "Δεν ήταν δυνατή η συγχώνευση του εισιτηρίου."
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:540
+msgid "Created on: "
+msgstr "Δημιουργήθηκε στο: "
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:541
+msgid "Created by: "
+msgstr "Δημιουργήθηκε από: "
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:572
+msgid "Assigned to: "
+msgstr "Ανατεθεί: "
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:618
+msgid "Purchase Code could not be verified!"
+msgstr "Ο κωδικός αγοράς δεν ήταν δυνατό να επαληθευτεί!"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:621
+msgid "Item: "
+msgstr "Είδος: "
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:622
+msgid "License: "
+msgstr "Αδεια: "
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:623
+msgid "Support Until:"
+msgstr "Υποστήριξη Μέχρι:"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:736
+msgid "Select Product"
+msgstr "Επιλέξτε Προϊόν"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:797
+msgid "No feedback available"
+msgstr "Δεν υπάρχουν διαθέσιμα σχόλια"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:868
+msgid "Color"
+msgstr "Χρώμα"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:896
+#: admin/class-wordpress-helpdesk-my-tickets.php:51
+#, php-format
+msgid "Please <a href=\"%s\" title=\"Login\">login to view your tickets</a>"
+msgstr "Παρακαλούμε <a href=\"% %s \" title=\"Login\"> συνδεθείτε για να δείτε τα εισιτήριά σας </a>"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:974
+#, php-format
+msgid "[Ticket: %s] %s"
+msgstr "[Εισιτήριο: %s ] %s"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1029
+msgid "From"
+msgstr "Από"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1030
+msgid "Assigned To"
+msgstr "Ανατεθεί"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1032
+msgid "Satisfied"
+msgstr "Ικανοποιημένοι"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1036
+msgid ""
+"<span class=\"vers comment-grey-bubble\" title=\"Comments\"><span "
+"class=\"screen-reader-text\">Comments</span></span>"
+msgstr "<span class = \ "vers σχόλιο-γκρι-bubble \" title = \ "Σχόλια \"> <span class = \ "οθόνη-reader-text \"> Σχόλια </ span>"
+
+#: admin/class-wordpress-helpdesk-ticket-post-type.php:1037
+#: admin/class-wordpress-helpdesk-my-tickets.php:115
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: admin/class-wordpress-helpdesk-woocommerce.php:54
+msgid "My Tickets"
+msgstr "Τα εισιτήριά μου"
+
+#: admin/class-wordpress-helpdesk-woocommerce.php:55
+msgid "Submit Ticket"
+msgstr "Υποβολή εισιτηρίου"
+
+#: admin/class-wordpress-helpdesk-woocommerce.php:110
+msgid "Submit a new Ticket"
+msgstr "Υποβάλετε ένα νέο εισιτήριο"
+
+#: admin/class-wordpress-helpdesk-woocommerce.php:222
+#: admin/class-wordpress-helpdesk-faq-post-type.php:512
+#: admin/class-wordpress-helpdesk-faq-post-type.php:515
+msgid "FAQs"
+msgstr "Συχνές ερωτήσεις"
+
+#: admin/class-wordpress-helpdesk-woocommerce.php:262
+msgid "Currently we do not have any frequently asked questions."
+msgstr "Επί του παρόντος δεν έχουμε συχνές ερωτήσεις."
+
+#: admin/class-wordpress-helpdesk-woocommerce.php:267
+msgid "Frequently Asked Questions"
+msgstr "Συχνές Ερωτήσεις"
+
+#: admin/class-wordpress-helpdesk-desktop-notifications.php:129
+#, php-format
+msgid "New comment on %s"
+msgstr "Νέο σχόλιο για το %s"
+
+#: admin/options-init.php:28 admin/options-init.php:30
+msgid "WordPress Helpdesk"
+msgstr "Βοήθεια WordPress"
+
+#: admin/options-init.php:36
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: admin/options-init.php:90
+msgid "Information"
+msgstr "Πληροφορίες"
+
+#: admin/options-init.php:91
+msgid "<p>Need support? Please use the comment function on codecanyon.</p>"
+msgstr "<p> Χρειάζεστε υποστήριξη; Χρησιμοποιήστε τη λειτουργία σχολίων στο codecanyon. </ P>"
+
+#: admin/options-init.php:113 admin/options-init.php:1086
+msgid "Helpdesk"
+msgstr "Βοήθεια"
+
+#: admin/options-init.php:115
+msgid "Need support? Please use the comment function on codecanyon."
+msgstr "Χρειάζεστε υποστήριξη; Χρησιμοποιήστε τη λειτουργία σχόλων στο codecanyon."
+
+#: admin/options-init.php:120
+msgid "General"
+msgstr "Γενικός"
+
+#: admin/options-init.php:127
+msgid "Enable"
+msgstr "επιτρέπω"
+
+#: admin/options-init.php:128
+msgid "Enable TotalDesk."
+msgstr "Ενεργοποίηση του TotalDesk."
+
+#: admin/options-init.php:134
+msgid "Login Page"
+msgstr "Σελίδα σύνδεσης"
+
+#: admin/options-init.php:135
+msgid "This will be the page, where the login button will link to."
+msgstr "Αυτή θα είναι η σελίδα, στην οποία θα συνδεθεί το κουμπί σύνδεσης."
+
+#: admin/options-init.php:141
+msgid "My Tickets Page"
+msgstr "Η σελίδα εισιτηρίων μου"
+
+#: admin/options-init.php:142
+msgid ""
+"Make sure the [my_tickets] shortcode is placed there. After saving go to "
+"settings > permalinks and save."
+msgstr "Βεβαιωθείτε ότι ο κωδικός [my_tickets] είναι τοποθετημένος εκεί. Αφού αποθηκεύσετε, μεταβείτε στις ρυθμίσεις> permalinks και αποθηκεύστε."
+
+#: admin/options-init.php:148
+msgid "Redirect reporters to My Tickets page"
+msgstr "Ανατρέξτε στους δημοσιογράφους στη σελίδα "Τα εισιτήριά μου""
+
+#: admin/options-init.php:149
+msgid "After login all reporters will be redirected to the my tickets page."
+msgstr "Αφού συνδεθείτε, όλοι οι δημοσιογράφοι θα μεταφερθούν στη σελίδα των εισιτηρίων μου."
+
+#: admin/options-init.php:155
+msgid "Only Logged In"
+msgstr "Μόνο συνδεδεμένος"
+
+#: admin/options-init.php:156
+msgid "Allow Ticket creation via Forms only when User is logged in."
+msgstr "Να επιτρέπεται η δημιουργία εισιτηρίων μέσω εντύπων μόνο όταν είναι συνδεδεμένος ο χρήστης."
+
+#: admin/options-init.php:162
+msgid "Send Login credentials"
+msgstr "Αποστολή διαπιστευτηρίων σύνδεσης"
+
+#: admin/options-init.php:163
+msgid ""
+"Send out the login credentials when a new account has been created for a new "
+"user."
+msgstr "Αποστολή των διαπιστευτηρίων σύνδεσης όταν έχει δημιουργηθεί ένας νέος λογαριασμός για έναν νέο χρήστη."
+
+#: admin/options-init.php:169
+msgid "Sidebar Display"
+msgstr "Πλευρική οθόνη"
+
+#: admin/options-init.php:170
+msgid "Where you want to show the sidebar."
+msgstr "Όπου θέλετε να εμφανίζεται η πλευρική γραμμή."
+
+#: admin/options-init.php:172
+msgid "None"
+msgstr "Κανένας"
+
+#: admin/options-init.php:173
+msgid "Only in Knowledge Base"
+msgstr "Μόνο στη Γνωσιακή Βάση"
+
+#: admin/options-init.php:174
+msgid "Only for Ticket pages"
+msgstr "Μόνο για σελίδες εισιτηρίων"
+
+#: admin/options-init.php:175
+msgid "Show in Ticket & FAQ pages"
+msgstr "Εμφάνιση σε σελίδες εισιτηρίων & FAQ"
+
+#: admin/options-init.php:182
+msgid "Sidebar Position"
+msgstr "Θέση πλευρικού μπαρ"
+
+#: admin/options-init.php:183
+msgid "Left or Right sidebar."
+msgstr "Αριστερή ή Δεξιά πλευρική γραμμή."
+
+#: admin/options-init.php:185
+msgid "Left"
+msgstr "Αριστερά"
+
+#: admin/options-init.php:186
+msgid "Right"
+msgstr "σωστά"
+
+#: admin/options-init.php:193
+msgid "Use Excel 2007"
+msgstr "Χρησιμοποιήστε το Excel 2007"
+
+#: admin/options-init.php:194
+msgid ""
+"If you can not work with xlsx (Excel 2007 and higher) files, check this. You "
+"then can work with normal .xls files."
+msgstr "Εάν δεν μπορείτε να εργαστείτε με αρχεία xlsx (Excel 2007 και νεότερα), ελέγξτε αυτό. Στη συνέχεια, μπορείτε να εργαστείτε με κανονικά αρχεία .xls."
+
+#: admin/options-init.php:201
+msgid "Export all Tickets"
+msgstr "Εξαγωγή όλων των εισιτηρίων"
+
+#: admin/options-init.php:216
+msgid "Default Status"
+msgstr "Κατάσταση προεπιλογής"
+
+#: admin/options-init.php:217
+msgid "The default status for new tickets."
+msgstr "Η προεπιλεγμένη κατάσταση για νέα εισιτήρια."
+
+#: admin/options-init.php:227
+msgid "Default Type"
+msgstr "Προεπιλεγμένος τύπος"
+
+#: admin/options-init.php:228
+msgid "The default type for new tickets."
+msgstr "Ο προεπιλεγμένος τύπος για νέα εισιτήρια."
+
+#: admin/options-init.php:238
+msgid "Default priority"
+msgstr "Προεπιλεγμένη προτεραιότητα"
+
+#: admin/options-init.php:239
+msgid "The default priority for new tickets."
+msgstr "Η προεπιλεγμένη προτεραιότητα για νέα εισιτήρια."
+
+#: admin/options-init.php:249
+msgid "Default Department"
+msgstr "Τμήμα προεπιλογής"
+
+#: admin/options-init.php:250
+msgid "The default Department for new tickets."
+msgstr "Το προεπιλεγμένο τμήμα για νέα εισιτήρια."
+
+#: admin/options-init.php:255
+msgid "Default Agent"
+msgstr "Προεπιλεγμένος παράγοντας"
+
+#: admin/options-init.php:256
+msgid "The default user for new tickets."
+msgstr "Ο προεπιλεγμένος χρήστης για νέα εισιτήρια."
+
+#: admin/options-init.php:270
+#, php-format
+msgid "Default Agent for %s"
+msgstr "Προεπιλεγμένος παράγοντας για %s"
+
+#: admin/options-init.php:271
+#, php-format
+msgid "The default user for %s."
+msgstr "Ο προεπιλεγμένος χρήστης για %s ."
+
+#: admin/options-init.php:279
+msgid "Defaults"
+msgstr "Προεπιλογές"
+
+#: admin/options-init.php:287
+msgid "Desktop Notifications"
+msgstr "Ειδοποιήσεις επιφάνειας εργασίας"
+
+#: admin/options-init.php:294
+msgid "Enable Desktop Notifications"
+msgstr "Ενεργοποιήστε τις Ειδοποιήσεις επιφάνειας εργασίας"
+
+#: admin/options-init.php:300 admin/options-init.php:1210
+msgid "AJAX Interval"
+msgstr "AJAX Interval"
+
+#: admin/options-init.php:301 admin/options-init.php:1211
+msgid "Increase the interval (in miliseconds) to save server performance."
+msgstr "Αυξήστε το διάστημα (σε χιλιοστά του δευτερολέπτου) για να αποθηκεύσετε την απόδοση του διακομιστή."
+
+#: admin/options-init.php:311
+msgid "Welcome Title"
+msgstr "Καλώς ήλθατε στον τίτλο"
+
+#: admin/options-init.php:312
+msgid "Welcome to Helpdesk"
+msgstr "Καλώς ήρθατε στο Helpdesk"
+
+#: admin/options-init.php:318
+msgid "Welcome Text"
+msgstr "Καλώς ορίσατε κείμενο"
+
+#: admin/options-init.php:319
+msgid "How can we help you today?"
+msgstr "Πώς μπορούμε να σας βοηθήσουμε σήμερα;"
+
+#: admin/options-init.php:325
+msgid "Welcome Timout"
+msgstr "Καλώς ήλθατε"
+
+#: admin/options-init.php:326
+msgid "Time in minutes when the welcome message should pop up again."
+msgstr "Χρόνος σε λεπτά, όταν θα πρέπει να εμφανιστεί ξανά το μήνυμα καλωσορίσματος."
+
+#: admin/options-init.php:337
+msgid "Set an icon"
+msgstr "Ορίστε ένα εικονίδιο"
+
+#: admin/options-init.php:338 admin/options-init.php:1151
+msgid "The icon must be in square format."
+msgstr "Το εικονίδιο πρέπει να έχει τετραγωνική μορφή."
+
+#: admin/options-init.php:346
+msgid "Timeout"
+msgstr "Τέλος χρόνου"
+
+#: admin/options-init.php:347
+msgid "Set the time when the notification automatically hides."
+msgstr "Ορίστε την ώρα που η ειδοποίηση κρύβεται αυτόματα."
+
+#: admin/options-init.php:360
+msgid "FAQ – Knowledge Base"
+msgstr "Συχνές ερωτήσεις - Βάση γνώσεων"
+
+#: admin/options-init.php:367
+msgid "Enable the FAQs Knowledge Base"
+msgstr "Ενεργοποιήστε τη Γνωσιακή Βάση Συχνών Ερωτήσεων"
+
+#: admin/options-init.php:368
+msgid ""
+"Custom Post Type FAQ will be created. Ticket can be copied into a new FAQ."
+msgstr "Θα δημιουργηθούν συνήθεις συνήθεις ερωτήσεις τύπου Post. Το εισιτήριο μπορεί να αντιγραφεί σε νέα FAQ."
+
+#: admin/options-init.php:374
+msgid "Knowledge Base Page"
+msgstr "Σελίδα βάσης γνώσεων"
+
+#: admin/options-init.php:375
+msgid ""
+"Make sure the [knowledge_base] shortcode is placed there. After saving go to "
+"settings > permalinks and save."
+msgstr "Βεβαιωθείτε ότι το shortcode [knowledge_base] είναι τοποθετημένο εκεί. Αφού αποθηκεύσετε, μεταβείτε στις ρυθμίσεις> permalinks και αποθηκεύστε."
+
+#: admin/options-init.php:382
+msgid "Show Search"
+msgstr "Εμφάνιση αναζήτησης"
+
+#: admin/options-init.php:389
+msgid "Show Views Count"
+msgstr "Εμφάνιση αριθμού προβολών"
+
+#: admin/options-init.php:396
+msgid "Show Rating"
+msgstr "Εμφάνιση Βαθμολογίας"
+
+#: admin/options-init.php:403
+msgid "Disable the Rating dislike button"
+msgstr "Απενεργοποιήστε το κουμπί Απαγόρευση βαθμολόγησης"
+
+#: admin/options-init.php:410
+msgid "Layout"
+msgstr "Διάταξη"
+
+#: admin/options-init.php:412
+msgid "List Layout"
+msgstr "Λίστα διάταξης"
+
+#: admin/options-init.php:413
+msgid "Boxed Layout"
+msgstr "Κουτί Διάταξη"
+
+#: admin/options-init.php:421
+msgid "Masonry"
+msgstr "Τοιχοποιία"
+
+#: admin/options-init.php:428
+msgid "Hide FAQ excerpts for not logged in"
+msgstr "Απόκρυψη αποσπασμάτων FAQ για μη συνδεδεμένο"
+
+#: admin/options-init.php:429
+msgid "Hide all FAQ excerpts for not logged in users in the Knwoledge Base"
+msgstr "Απόκρυψη όλων των αποσπασμάτων FAQ για μη εγγεγραμμένους χρήστες στη βάση Knwoledge"
+
+#: admin/options-init.php:436
+msgid "Hide All Single FAQs pages"
+msgstr "Απόκρυψη όλων των μοναδικών σελίδων Συχνές ερωτήσεις"
+
+#: admin/options-init.php:437
+msgid "Hide all Single FAQ pages for not logged in users."
+msgstr "Απόκρυψη όλων των σελίδων μεμονωμένων ερωτήσεων (FAQ) για μη συνδεδεμένους χρήστες."
+
+#: admin/options-init.php:447
+msgid "Hide some FAQs"
+msgstr "Απόκρυψη κάποιων ερωτήσεων"
+
+#: admin/options-init.php:448
+msgid "Show the following FAQs only to logged in Users:"
+msgstr "Εμφανίστε τις ακόλουθες ερωτήσεις μόνο σε συνδεδεμένους χρήστες:"
+
+#: admin/options-init.php:460
+msgid "Hide some Topics"
+msgstr "Απόκρυψη ορισμένων θεμάτων"
+
+#: admin/options-init.php:461
+msgid "Hide complete Topics from not logged in users:"
+msgstr "Απόκρυψη πλήρων θεμάτων από μη συνδεδεμένους χρήστες:"
+
+#: admin/options-init.php:468
+msgid "Form Fields"
+msgstr "Πεδία φόρμας"
+
+#: admin/options-init.php:475
+msgid "Simple Form Fields"
+msgstr "Απλά πεδία φόρμας"
+
+#: admin/options-init.php:476
+msgid "Fields for the Simple [new_ticket] form. "
+msgstr "Πεδία για τη φόρμα Simple [new_ticket]. "
+
+#: admin/options-init.php:482 admin/options-init.php:519
+#: admin/options-init.php:569
+msgid "Systems / Project Select Field"
+msgstr "Συστήματα / Πεδίο επιλογής έργου"
+
+#: admin/options-init.php:488 admin/options-init.php:525
+#: admin/options-init.php:575
+msgid "Priority Select Field"
+msgstr "Πεδίο επιλογής προτεραιότητας"
+
+#: admin/options-init.php:494 admin/options-init.php:531
+#: admin/options-init.php:581
+msgid "Types Select Field"
+msgstr "Τύποι Επιλέξτε πεδίο"
+
+#: admin/options-init.php:506 admin/options-init.php:543
+#: admin/options-init.php:593
+msgid "Attachments field"
+msgstr "Πεδίο συνημμένων"
+
+#: admin/options-init.php:512
+msgid "Envato Form Fields"
+msgstr "Envato Form Fields"
+
+#: admin/options-init.php:513
+msgid "Fields for the Simple [new_ticket type=\"Envato\"] form. "
+msgstr "Πεδία για την απλή [new_ticket type = \ "Envato \"] φόρμα. "
+
+#: admin/options-init.php:555
+msgid "Envato Items"
+msgstr "Στοιχεία Envato"
+
+#: admin/options-init.php:556
+msgid ""
+"A selected Item will be overwritten when an item is found within the "
+"purchase code."
+msgstr "Ένα επιλεγμένο στοιχείο θα αντικατασταθεί όταν ένα στοιχείο βρίσκεται μέσα στον κωδικό αγοράς."
+
+#: admin/options-init.php:562
+msgid "WooCommerce Form Fields"
+msgstr "WooCommerce πεδία φόρμας"
+
+#: admin/options-init.php:563
+msgid "Fields for the Simple [new_ticket type=\"WooCommerce\"] form. "
+msgstr "Πεδία για την απλή φόρμα [new_ticket type = \ "WooCommerce \"]. "
+
+#: admin/options-init.php:599
+msgid "Product Support (lists all Products)"
+msgstr "Υποστήριξη προϊόντων (περιλαμβάνει όλα τα προϊόντα)"
+
+#: admin/options-init.php:605
+msgid "Order Support (lists all Orders)"
+msgstr "Υποστήριξη Παραγγελίας (περιλαμβάνει όλες τις Παραγγελίες)"
+
+#: admin/options-init.php:612
+msgid "Inbox"
+msgstr "Inbox"
+
+#: admin/options-init.php:619
+msgid "Enable Inbox"
+msgstr "Ενεργοποίηση εισερχομένων"
+
+#: admin/options-init.php:620
+msgid "Enable this to allow ticket creation via Email."
+msgstr "Ενεργοποιήστε αυτό για να επιτρέψετε τη δημιουργία εισιτηρίων μέσω του ηλεκτρονικού ταχυδρομείου."
+
+#: admin/options-init.php:626
+msgid "Recurrence"
+msgstr "Επανάληψη"
+
+#: admin/options-init.php:627
+msgid "How often should Emails be fetched."
+msgstr "Πόσο συχνά θα πρέπει να λαμβάνουν τα μηνύματα ηλεκτρονικού ταχυδρομείου."
+
+#: admin/options-init.php:629
+msgid "Hourly"
+msgstr "Ωριαίος"
+
+#: admin/options-init.php:630
+msgid "Twice daily"
+msgstr "Δύο φορές την ημέρα"
+
+#: admin/options-init.php:631
+msgid "Daily"
+msgstr "Καθημερινά"
+
+#: admin/options-init.php:639
+msgid "Mail Account Settings"
+msgstr "Ρυθμίσεις λογαριασμού αλληλογραφίας"
+
+#: admin/options-init.php:640
+msgid "Settings for your Mail Account."
+msgstr "Ρυθμίσεις για τον λογαριασμό σας αλληλογραφίας."
+
+#: admin/options-init.php:647
+msgid "Email"
+msgstr "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ"
+
+#: admin/options-init.php:654
+msgid "Username & Password"
+msgstr "Ονομα χρήστη κωδικός"
+
+#: admin/options-init.php:656
+msgid "Enter your Username"
+msgstr "Εισαγάγετε το όνομα χρήστη σας"
+
+#: admin/options-init.php:657
+msgid "Enter your Password"
+msgstr "Εισάγετε τον κωδικό σας"
+
+#: admin/options-init.php:664
+msgid "Host"
+msgstr "Πλήθος"
+
+#: admin/options-init.php:670
+msgid "Inbox Folder"
+msgstr "Φάκελο Εισερχομένων"
+
+#: admin/options-init.php:671
+msgid ""
+"The folder where to scan for new mails. Most of the time it is the INBOX "
+"folder."
+msgstr "Ο φάκελος στον οποίο θα γίνει σάρωση για νέα μηνύματα. Τις περισσότερες φορές είναι ο φάκελος INBOX."
+
+#: admin/options-init.php:678
+msgid "Archive Folder"
+msgstr "Αρχείο φακέλων αρχείων"
+
+#: admin/options-init.php:679
+msgid "The target folder, where processed mails should be moved (eg. Archiv)."
+msgstr "Ο φάκελος προορισμού, όπου πρέπει να μετακινηθούν τα επεξεργασμένα μηνύματα (π.χ. Αρχείο)."
+
+#: admin/options-init.php:686 admin/options-init.php:710
+msgid "Protocol"
+msgstr "Πρωτόκολλο"
+
+#: admin/options-init.php:688
+msgid "TLS"
+msgstr "TLS"
+
+#: admin/options-init.php:689
+msgid "SSL"
+msgstr "SSL"
+
+#: admin/options-init.php:697
+msgid "Port"
+msgstr "Λιμάνι"
+
+#: admin/options-init.php:699
+msgid "143"
+msgstr "143"
+
+#: admin/options-init.php:700
+msgid "993"
+msgstr "993"
+
+#: admin/options-init.php:701
+msgid "110"
+msgstr "110"
+
+#: admin/options-init.php:702
+msgid "995"
+msgstr "995"
+
+#: admin/options-init.php:712
+msgid "IMAP"
+msgstr "IMAP"
+
+#: admin/options-init.php:713
+msgid "IMAPS"
+msgstr "IMAPS"
+
+#: admin/options-init.php:714
+msgid "POP3"
+msgstr "POP3"
+
+#: admin/options-init.php:715
+msgid "POP3S"
+msgstr "POP3S"
+
+#: admin/options-init.php:723
+msgid "No Validate Cert"
+msgstr "Δεν υπάρχει επικύρωση"
+
+#: admin/options-init.php:724
+msgid "Do not validate Certificates."
+msgstr "Μην επικυρώσετε Πιστοποιητικά."
+
+#: admin/options-init.php:731
+msgid "Test Mail Account"
+msgstr "Δοκιμή λογαριασμού αλληλογραφίας"
+
+#: admin/options-init.php:731
+msgid "Check Folter"
+msgstr "Ελέγξτε το Folter"
+
+#: admin/options-init.php:731
+msgid "Fetch Emails Now"
+msgstr "Λήψη μηνυμάτων ηλεκτρονικού ταχυδρομείου τώρα"
+
+#: admin/options-init.php:738
+msgid "Integrations"
+msgstr "Ενσωμάτωση"
+
+#: admin/options-init.php:746
+msgid "Invisible Recaptcha Integration"
+msgstr "Αόρατη ενσωμάτωση της Recaptcha"
+
+#: admin/options-init.php:747
+msgid ""
+"Install & Setup the <a href=\"https://wordpress.org/plugins/invisible-"
+"recaptcha/\" target=\"_blank\">invisible recaptcha plugin from here</a>. "
+"Then check this option."
+msgstr "Εγκαταστήστε και εγκαταστήστε το <a href=\"https://wordpress.org/plugins/invisible-recaptcha/\" target=\"_blank\"> αόρατο plugin recaptcha από εδώ </a>. Στη συνέχεια, ελέγξτε αυτήν την επιλογή."
+
+#: admin/options-init.php:754
+msgid "Envato Integration"
+msgstr "Envato Integration"
+
+#: admin/options-init.php:760
+msgid "Your Envato Username"
+msgstr "Το όνομα χρήστη του Envato"
+
+#: admin/options-init.php:766
+msgid "Envato API Key"
+msgstr "Κλειδί API Envato"
+
+#: admin/options-init.php:767
+msgid ""
+"<a href=\"https://build.Envato.com/my-apps/\" target=\"_blank\">Click here "
+"to get your API key > Person Tokens</a>."
+msgstr "<a href=\"https://build.Envato.com/my-apps/\" target=\"_blank\"> Κάντε κλικ εδώ για να πάρετε το κλειδί API> Στοιχεία ατόμων </a>."
+
+#: admin/options-init.php:773
+msgid "Purchase Code required?"
+msgstr "Απαιτείται κωδικός αγοράς;"
+
+#: admin/options-init.php:774
+msgid ""
+"If enabled manual ticket creations will require a purchase code. Requests "
+"without a purchase code will automatically be denied and a reply will be "
+"sent with the request for the code."
+msgstr "Αν ενεργοποιηθούν οι δημιουργίες δημιουργίας εισιτηρίων, απαιτείται κωδικός αγοράς. Τα αιτήματα χωρίς κωδικό αγοράς θα απορρίπτονται αυτόματα και θα σταλεί μια απάντηση με το αίτημα για τον κωδικό."
+
+#: admin/options-init.php:781
+msgid "Check Support until for Purchase?"
+msgstr "Ελέγξτε την υποστήριξη έως ότου αγοράσετε;"
+
+#: admin/options-init.php:782
+msgid ""
+"If enabled purchases, where the support is expired will not be created as a "
+"ticket."
+msgstr "Εάν οι ενεργοποιημένες αγορές, όπου η υποστήριξη έχει λήξει, δεν θα δημιουργηθούν ως εισιτήριο."
+
+#: admin/options-init.php:790
+msgid "WooCommerce Integration"
+msgstr "Ενσωμάτωση WooCommerce"
+
+#: admin/options-init.php:796
+msgid "Show FAQs Tab on Product pages"
+msgstr "Εμφάνιση καρτέλας Συχνές ερωτήσεις στις σελίδες προϊόντων"
+
+#: admin/options-init.php:803
+msgid "Hide Admin bar for Reporters"
+msgstr "Απόκρυψη γραμμής διαχειριστών για τους δημοσιογράφους"
+
+#: admin/options-init.php:810
+msgid "Prevent Admin access for Reporters"
+msgstr "Αποτρέψτε την πρόσβαση διαχειριστών για τους δημοσιογράφους"
+
+#: admin/options-init.php:818
+msgid "Slack Integration"
+msgstr "Slack Integration"
+
+#: admin/options-init.php:824
+msgid "Webhook URL"
+msgstr "Webhook URL"
+
+#: admin/options-init.php:825
+msgid ""
+"Then <a href=\"https://my.slack.com/services/new/incoming-webhook\" "
+"target=\"_blank\">create an incoming webhook</a> on your Slack account for "
+"the package to use. You'll need the webhook URL to instantiate the client."
+msgstr "Στη συνέχεια, <a href=\"https://my.slack.com/services/new/incoming-webhook\" target=\"_blank\"> δημιουργήστε ένα εισερχόμενο webhook </a> στον λογαριασμό σας Slack για το πακέτο να χρήση. Θα χρειαστείτε τη διεύθυνση URL του webhook για την παράδοση του πελάτη."
+
+#: admin/options-init.php:826
+msgid "https://hooks.slack.com/services/..."
+msgstr "https: //hooks.slack.com/services/ ..."
+
+#: admin/options-init.php:832
+msgid "Channel"
+msgstr "Κανάλι"
+
+#: admin/options-init.php:833
+msgid "Channel where to post to."
+msgstr "Το κανάλι στο οποίο πρέπει να δημοσιεύσετε."
+
+#: admin/options-init.php:840
+msgid "Icon"
+msgstr "Εικόνισμα"
+
+#: admin/options-init.php:841
+msgid "Set your custom Slack Icon"
+msgstr "Ορίστε το προσαρμοσμένο εικονίδιο αδυνατίσματος"
+
+#: admin/options-init.php:852 admin/options-init.php:935
+#: admin/options-init.php:942
+msgid "New Ticket Notification"
+msgstr "Νέα ειδοποίηση εισιτηρίων"
+
+#: admin/options-init.php:859 admin/options-init.php:970
+#: admin/options-init.php:977
+msgid "Status Change Notification"
+msgstr "Ειδοποίηση αλλαγής κατάστασης"
+
+#: admin/options-init.php:866 admin/options-init.php:873
+#: admin/options-init.php:1012
+msgid "Enable Comment added Notification"
+msgstr "Ενεργοποίηση ειδοποίησης προσθήκης σχολίου"
+
+#: admin/options-init.php:881
+msgid "Enable Crisp Live Chat."
+msgstr "Enable Crisp Live Chat."
+
+#: admin/options-init.php:882
+msgid "Learn more here: https://crisp.chat/en/"
+msgstr "Μάθετε περισσότερα εδώ: https://crisp.chat/en/"
+
+#: admin/options-init.php:889
+msgid "Crisp Code"
+msgstr "Διακριτικός κώδικας"
+
+#: admin/options-init.php:890
+msgid ""
+"Copy & paste the HTML code here. https://app.crisp.chat/settings/websites/"
+msgstr "Αντιγράψτε και επικολλήστε τον κώδικα HTML εδώ. https://app.crisp.chat/settings/websites/"
+
+#: admin/options-init.php:896
+msgid "Enable PureChat Live Chat."
+msgstr "Ενεργοποίηση PureChat Live Chat."
+
+#: admin/options-init.php:897
+msgid "Learn more here: https://www.purechat.com/"
+msgstr "Μάθετε περισσότερα εδώ: https://www.purechat.com/"
+
+#: admin/options-init.php:904
+msgid "PureChat Code"
+msgstr "PureChat κώδικα"
+
+#: admin/options-init.php:905
+msgid ""
+"Copy & paste the HTML code here. https://app.purechat.com/websites/install-"
+"first"
+msgstr "Αντιγράψτε και επικολλήστε τον κώδικα HTML εδώ. https://app.purechat.com/websites/install-first"
+
+#: admin/options-init.php:911
+msgid "Enable Chatra Live Chat."
+msgstr "Ενεργοποίηση Chatra Live Chat."
+
+#: admin/options-init.php:912
+msgid "Learn more here: https://chatra.io"
+msgstr "Μάθετε περισσότερα εδώ: https://chatra.io"
+
+#: admin/options-init.php:919
+msgid "Chatra Code"
+msgstr "Κωδικός Chatra"
+
+#: admin/options-init.php:920
+msgid "Copy & paste the HTML code here. https://app.chatra.io/settings/general"
+msgstr "Αντιγράψτε και επικολλήστε τον κώδικα HTML εδώ. https://app.chatra.io/settings/general"
+
+#: admin/options-init.php:927
+msgid "Mail Notifications"
+msgstr "Ειδοποιήσεις αλληλογραφίας"
+
+#: admin/options-init.php:936
+msgid "Notification when a new ticket has been created. "
+msgstr "Κοινοποίηση όταν έχει δημιουργηθεί ένα νέο εισιτήριο. "
+
+#: admin/options-init.php:948 admin/options-init.php:983
+#: admin/options-init.php:1018 admin/options-init.php:1055
+msgid "Notify the reporter."
+msgstr "Ειδοποιήστε τον δημοσιογράφο."
+
+#: admin/options-init.php:955
+msgid "Notify the by default assigned agent."
+msgstr "Ειδοποιήστε τον προεπιλεγμένο πράκτορα."
+
+#: admin/options-init.php:962 admin/options-init.php:997
+#: admin/options-init.php:1034 admin/options-init.php:1069
+msgid "Notify the the following users:"
+msgstr "Ειδοποιήστε τους ακόλουθους χρήστες:"
+
+#: admin/options-init.php:971
+msgid "Notification when a ticket status has been changed. "
+msgstr "Κοινοποίηση όταν έχει αλλάξει η κατάσταση εισιτηρίου. "
+
+#: admin/options-init.php:990
+msgid "Notify the assigned agent."
+msgstr "Ειδοποιήστε τον εντολοδόχο."
+
+#: admin/options-init.php:1005
+msgid "Comment Added Notification"
+msgstr "Σχόλιο Προστέθηκε κοινοποίηση"
+
+#: admin/options-init.php:1006
+msgid "Whenever a comment has been added. "
+msgstr "Κάθε φορά που έχει προστεθεί ένα σχόλιο. "
+
+#: admin/options-init.php:1026 admin/options-init.php:1062
+msgid "Notify the agent."
+msgstr "Ειδοποιήστε τον πράκτορα."
+
+#: admin/options-init.php:1042
+msgid "Assigned Agent Changed Notification"
+msgstr "Ανανεωμένη ειδοποίηση εκχωρημένου παράγοντα"
+
+#: admin/options-init.php:1043
+msgid "Whenever the assigned agent changed. "
+msgstr "Κάθε φορά που ο καθορισμένος πράκτορας άλλαξε. "
+
+#: admin/options-init.php:1049
+msgid "Enable agent changed added Notification"
+msgstr "Ο Enable agent άλλαξε την προσθήκη Notification"
+
+#: admin/options-init.php:1077
+msgid "Notification settings"
+msgstr "Ρυθμίσεις ειδοποιήσεων"
+
+#: admin/options-init.php:1078
+msgid "The default notification settings for mails etc."
+msgstr "Οι προεπιλεγμένες ρυθμίσεις ειδοποιήσεων για τα μηνύματα κ.λπ."
+
+#: admin/options-init.php:1084
+#: admin/class-wordpress-helpdesk-my-tickets.php:112
+#: admin/widgets/faq-topics.php:73
+msgid "Name"
+msgstr "Ονομα"
+
+#: admin/options-init.php:1085
+msgid "This is the default from name for your mail notifications."
+msgstr "Αυτή είναι η προεπιλογή από το όνομα για τις ειδοποιήσεις αλληλογραφίας σας."
+
+#: admin/options-init.php:1092
+msgid "Set a Logo"
+msgstr "Ορίστε ένα λογότυπο"
+
+#: admin/options-init.php:1093
+msgid "The logo will be used in all Mail notifications."
+msgstr "Το λογότυπο θα χρησιμοποιείται σε όλες τις ειδοποιήσεις αλληλογραφίας."
+
+#: admin/options-init.php:1101
+msgid "Support Mail Address"
+msgstr "Υποστήριξη Διεύθυνση Mail"
+
+#: admin/options-init.php:1102
+msgid ""
+"This will be used in your mail notifications as the default reply to address."
+msgstr "Αυτό θα χρησιμοποιηθεί στις ειδοποιήσεις αλληλογραφίας σας ως την προεπιλεγμένη απάντηση για τη διεύθυνση."
+
+#: admin/options-init.php:1108
+msgid "Footer for Mails"
+msgstr "Υποσέλιδο για Ταχυδρομεία"
+
+#: admin/options-init.php:1115 admin/options-init.php:1169
+#: admin/class-wordpress-helpdesk-livechat-backend.php:222
+#: admin/class-wordpress-helpdesk-livechat-backend.php:223
+#: admin/class-wordpress-helpdesk-livechat-backend.php:235
+msgid "Live Chat"
+msgstr "Ζωντανή συζήτηση"
+
+#: admin/options-init.php:1122
+msgid "Enable Live Chat"
+msgstr "Ενεργοποίηση ζωντανής συνομιλίας"
+
+#: admin/options-init.php:1128
+msgid "Allow Guest-Chat"
+msgstr "Να επιτρέπεται η συνομιλία επισκεπτών"
+
+#: admin/options-init.php:1135
+msgid "Allow Attachments"
+msgstr "Αφήστε τα συνημμένα"
+
+#: admin/options-init.php:1142
+msgid "Hide Livechat when agents offline"
+msgstr "Απόκρυψη του Livechat όταν οι πράκτορες είναι εκτός σύνδεσης"
+
+#: admin/options-init.php:1150
+msgid "Default Icon"
+msgstr "Προεπιλεγμένο εικονίδιο"
+
+#: admin/options-init.php:1168
+msgid "Live Chat Title"
+msgstr "Τίτλος Live Chat"
+
+#: admin/options-init.php:1175
+msgid "Status Text (Online)"
+msgstr "Κείμενο κατάστασης (Online)"
+
+#: admin/options-init.php:1176
+msgid "Our customer service is available."
+msgstr "Η υπηρεσία εξυπηρέτησης πελατών είναι διαθέσιμη."
+
+#: admin/options-init.php:1182
+msgid "Status Text (Offline)"
+msgstr "Κείμενο κατάστασης (εκτός σύνδεσης)"
+
+#: admin/options-init.php:1183
+msgid "No agents online."
+msgstr "Κανένας πράκτορας online."
+
+#: admin/options-init.php:1189
+msgid "Welcome Text (Online)"
+msgstr "Κείμενο υποδοχής (Online)"
+
+#: admin/options-init.php:1190
+#, php-format
+msgid "Hi %s,<br><br>Please tell us your subject and your concerns."
+msgstr "Γεια σου %s , <br> <br> Παρακαλώ πείτε μας το θέμα σας και τις ανησυχίες σας."
+
+#: admin/options-init.php:1196
+msgid "Welcome Text (Offline)"
+msgstr "Κείμενο καλωσορίσματος (εκτός σύνδεσης)"
+
+#: admin/options-init.php:1197
+msgid ""
+"Sorry,<br><br>None of our agents is online right now. But you can leave a "
+"message."
+msgstr "Συγνώμη, <br> <br> Κανένας από τους πράκτορές μας δεν είναι συνδεδεμένος αυτήν τη στιγμή. Αλλά μπορείτε να αφήσετε ένα μήνυμα."
+
+#: admin/options-init.php:1203
+msgid "Button Text"
+msgstr "Κουμπί Κειμένου"
+
+#: admin/options-init.php:1204
+msgid "Enter Chat"
+msgstr "Εισαγωγή συνομιλίας"
+
+#: admin/options-init.php:1222
+msgid "Saved Replies (BOT)"
+msgstr "Αποθηκευμένες απαντήσεις (BOT)"
+
+#: admin/options-init.php:1229
+msgid "Enable Saved Replies"
+msgstr "Ενεργοποίηση αποθηκευμένων απαντήσεων"
+
+#: admin/options-init.php:1230
+msgid ""
+"This allows you to save comments into a saved reply, that can be reused for "
+"later tickets."
+msgstr "Αυτό σας επιτρέπει να αποθηκεύσετε τα σχόλια σε μια αποθηκευμένη απάντηση, η οποία μπορεί να επαναχρησιμοποιηθεί για μεταγενέστερα εισιτήρια."
+
+#: admin/options-init.php:1236
+msgid "Enable Automatic Replies"
+msgstr "Ενεργοποίηση αυτόματων απαντήσεων"
+
+#: admin/options-init.php:1237
+msgid ""
+"This will use your saved replies based on tags & word matches to "
+"automatically reply."
+msgstr "Αυτό θα χρησιμοποιήσει τις αποθηκευμένες απαντήσεις σας βάσει ετικετών και αντιστοιχιών λέξεων για αυτόματη απάντηση."
+
+#: admin/options-init.php:1243
+msgid "Automatic Reply User"
+msgstr "Αυτόματη απάντηση χρήστη"
+
+#: admin/options-init.php:1244
+msgid ""
+"This User will be used for automatic replies. You can create a user Bot for "
+"example and set it here."
+msgstr "Αυτός ο Χρήστης θα χρησιμοποιηθεί για αυτόματες απαντήσεις. Μπορείτε να δημιουργήσετε έναν χρήστη Bot για παράδειγμα και να τον ορίσετε εδώ."
+
+#: admin/options-init.php:1251
+msgid "Enable Automatic Replies for new Tickets"
+msgstr "Ενεργοποίηση αυτόματων απαντήσεων για νέα εισιτήρια"
+
+#: admin/options-init.php:1258
+msgid "Enable Automatic Reply for new Ticket Replies"
+msgstr "Ενεργοποίηση αυτόματης απάντησης για νέες απαντήσεις εισιτηρίων"
+
+#: admin/options-init.php:1266
+msgid "Support Rating"
+msgstr "Βαθμολογία υποστήριξης"
+
+#: admin/options-init.php:1267
+msgid ""
+"Send out Emails when tickets are completed and ask for a support rating."
+msgstr "Στείλτε μηνύματα ηλεκτρονικού ταχυδρομείου όταν ολοκληρωθούν τα εισιτήρια και ζητήστε μια αξιολόγηση υποστήριξης."
+
+#: admin/options-init.php:1274
+msgid "Enable Support Rating"
+msgstr "Ενεργοποιήστε την αξιολόγηση υποστήριξης"
+
+#: admin/options-init.php:1285
+msgid "Rating Status"
+msgstr "Κατάσταση αξιολόγησης"
+
+#: admin/options-init.php:1286
+msgid "The status when the rating support email should be sent out."
+msgstr "Η κατάσταση κατά την οποία πρέπει να αποστέλλεται το μήνυμα ηλεκτρονικού ταχυδρομείου υποστήριξης αξιολόγησης."
+
+#: admin/options-init.php:1292
+msgid "Feedback Page"
+msgstr "Σελίδα ανάδρασης"
+
+#: admin/options-init.php:1293
+msgid ""
+"Make sure the [helpdesk_feedback] shortcode is placed there. After saving "
+"here go to settings > permalinks and save."
+msgstr "Βεβαιωθείτε ότι ο κωδικός [helpdesk_feedback] είναι τοποθετημένος εκεί. Αφού αποθηκεύσετε εδώ, μεταβείτε στις ρυθμίσεις> permalinks και αποθηκεύστε."
+
+#: admin/options-init.php:1300
+msgid "Email Subject"
+msgstr "Θέμα του μέιλ"
+
+#: admin/options-init.php:1301
+msgid "How would you rate the support?"
+msgstr "Πώς θα αξιολογήσατε την υποστήριξη;"
+
+#: admin/options-init.php:1307
+msgid "Email Intro"
+msgstr "Email Εισαγωγή"
+
+#: admin/options-init.php:1308
+#, php-format
+msgid ""
+"Hello %s,<br/><br/>We'd love to hear about your support experience. Please "
+"take a moment to answer one simple question by clicking either link below:"
+"<br/><br/>How would you rate the support you received?<br/><br/>"
+msgstr "Γεια σας %s , <br/> <br/> Θα θέλαμε να μάθουμε για την εμπειρία υποστήριξης. Αφιερώστε λίγο χρόνο για να απαντήσετε σε μια απλή ερώτηση κάνοντας κλικ στον παρακάτω σύνδεσμο: <br/> <br/> Πώς θα αξιολογήσατε την υποστήριξη που λάβατε; <br/> <br/>"
+
+#: admin/options-init.php:1314 admin/options-init.php:1321
+msgid "Email Satisfied Text"
+msgstr "Αποστολή με ικανοποιημένο κείμενο μέσω ηλεκτρονικού ταχυδρομείου"
+
+#: admin/options-init.php:1315
+msgid "Good, I'm satisfied"
+msgstr "Καλά, είμαι ικανοποιημένος"
+
+#: admin/options-init.php:1322
+msgid "Bad, I'm unsatisfied"
+msgstr "Κακό, δεν είμαι ικανοποιημένος"
+
+#: admin/options-init.php:1328
+msgid "Email Outro"
+msgstr "Email Outro"
+
+#: admin/options-init.php:1329
+msgid ""
+"Not solved yet?<br><br>The message you add to your feedback will not be "
+"forwarded as a reply. If you have further questions you can reply to this "
+"email."
+msgstr "Δεν έχει λυθεί ακόμη; <br> <br> Το μήνυμα που προσθέτετε στα σχόλιά σας δεν θα προωθηθεί ως απάντηση. Εάν έχετε περισσότερες ερωτήσεις, μπορείτε να απαντήσετε σε αυτό το μήνυμα ηλεκτρονικού ταχυδρομείου."
+
+#: admin/options-init.php:1336
+msgid "Advanced settings"
+msgstr "Προηγμένες ρυθμίσεις"
+
+#: admin/options-init.php:1337
+msgid "Custom stylesheet / javascript."
+msgstr "Προσαρμοσμένο φύλλο στυλ / javascript."
+
+#: admin/options-init.php:1344
+msgid "Use Theme Template"
+msgstr "Χρησιμοποιήστε το πρότυπο θέμα"
+
+#: admin/options-init.php:1345
+msgid "Enable this to override the custom templates."
+msgstr "Ενεργοποιήστε αυτήν την επιλογή για να παρακάμψετε τα προσαρμοσμένα πρότυπα."
+
+#: admin/options-init.php:1352
+msgid "Support Mail Template"
+msgstr "Υποστήριξη πρότυπου αλληλογραφίας"
+
+#: admin/options-init.php:1353
+msgid "This will be used for notifications."
+msgstr "Αυτό θα χρησιμοποιηθεί για ειδοποιήσεις."
+
+#: admin/options-init.php:1360
+msgid "Custom CSS"
+msgstr "Προσαρμοσμένο CSS"
+
+#: admin/options-init.php:1361 admin/options-init.php:1368
+msgid "Add some stylesheet if you want."
+msgstr "Προσθέστε κάποιο φύλλο στυλ εάν θέλετε."
+
+#: admin/options-init.php:1367
+msgid "Custom JS"
+msgstr "Custom JS"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:144
+msgid "Saved Reply"
+msgstr "Αποθηκευμένη απάντηση"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:145
+#: admin/class-wordpress-helpdesk-saved-replies.php:148
+msgid "Saved Replies"
+msgstr "Αποθηκευμένες απαντήσεις"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:207
+msgid "Category"
+msgstr "Κατηγορία"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:208
+msgid "Categories"
+msgstr "Κατηγορίες"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:211
+#: admin/class-wordpress-helpdesk-saved-replies.php:212
+#: admin/class-wordpress-helpdesk-saved-replies.php:221
+#: admin/class-wordpress-helpdesk-saved-replies.php:247
+#: admin/class-wordpress-helpdesk-saved-replies.php:248
+#: admin/class-wordpress-helpdesk-saved-replies.php:257
+#, php-format
+msgid "%s"
+msgstr "%μικρό"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:243
+msgid "Tag"
+msgstr "Ετικέτα"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:244
+msgid "Tags"
+msgstr "Ετικέτες"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:308
+msgid "Create Saved Reply"
+msgstr "Δημιουργία αποθηκευμένης απάντησης"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:326
+msgid "No comment to duplicate has been supplied!"
+msgstr "Δεν δόθηκε κανένα σχόλιο για την αναπαραγωγή!"
+
+#: admin/class-wordpress-helpdesk-saved-replies.php:347
+msgid "Saved Reply creation failed, could not find original comment: "
+msgstr "Η δημιουργία αποθηκευμένης απάντησης απέτυχε, δεν ήταν δυνατή η εύρεση αρχικού σχολίου: "
+
+#: admin/class-wordpress-helpdesk-slack.php:90
+#: admin/class-wordpress-helpdesk-slack.php:95
+#, php-format
+msgid "New Ticket created: %s"
+msgstr "Δημιουργήθηκε νέο εισιτήριο: %s"
+
+#: admin/class-wordpress-helpdesk-slack.php:93
+#: admin/class-wordpress-helpdesk-slack.php:132
+#: admin/class-wordpress-helpdesk-slack.php:178
+#: admin/class-wordpress-helpdesk-slack.php:190
+#: admin/class-wordpress-helpdesk-slack.php:253
+#: admin/class-wordpress-helpdesk-slack.php:289
+#, php-format
+msgid "[Ticket: %s] - %s"
+msgstr "[Εισιτήριο: %s ] - %s"
+
+#: admin/class-wordpress-helpdesk-slack.php:129
+#, php-format
+msgid "New Comment added on Ticket %s"
+msgstr "Νέο σχόλιο προστέθηκε στο Εισιτήριο %s"
+
+#: admin/class-wordpress-helpdesk-slack.php:134
+#, php-format
+msgid "New Comment added by %s:"
+msgstr "Νέο σχόλιο προστέθηκε από το %s :"
+
+#: admin/class-wordpress-helpdesk-slack.php:176
+#: admin/class-wordpress-helpdesk-slack.php:188
+#, php-format
+msgid "[Ticket: %s] %s changed"
+msgstr "[Εισιτήριο: %s ] %s άλλαξε"
+
+#: admin/class-wordpress-helpdesk-slack.php:180
+#, php-format
+msgid "%s changed from %s to: %s"
+msgstr "%s άλλαξε από %s σε: %s"
+
+#: admin/class-wordpress-helpdesk-slack.php:251
+#, php-format
+msgid "[Ticket: %s] Agent changed"
+msgstr "[Εισιτήριο: %s ] Ο πράκτορας άλλαξε"
+
+#: admin/class-wordpress-helpdesk-slack.php:255
+#: admin/class-wordpress-helpdesk-log.php:265
+#, php-format
+msgid "Assigned from %s to %s"
+msgstr "Ανάθεση από %s σε %s"
+
+#: admin/class-wordpress-helpdesk-slack.php:287
+#, php-format
+msgid "[Ticket: %s] Agent assigned"
+msgstr "[Εισιτήριο: %s ] Ανατεθεί ο πράκτορας"
+
+#: admin/class-wordpress-helpdesk-log.php:46
+msgid "History"
+msgstr "Ιστορία"
+
+#: admin/class-wordpress-helpdesk-log.php:74
+#: admin/class-wordpress-helpdesk-livechat-backend.php:160
+msgid " by "
+msgstr " με "
+
+#: admin/class-wordpress-helpdesk-log.php:79
+msgid "Content: "
+msgstr "Περιεχόμενο: "
+
+#: admin/class-wordpress-helpdesk-livechat-backend.php:201
+#, php-format
+msgid "Message received and Chat-Ticket %s created. You should have an email."
+msgstr "Το μήνυμα που ελήφθη και το %s -Ticket %s δημιουργήθηκαν. Θα πρέπει να έχετε ένα μήνυμα ηλεκτρονικού ταχυδρομείου."
+
+#: admin/class-wordpress-helpdesk-livechat-backend.php:355
+msgid "Error while uploading your attachment."
+msgstr "Σφάλμα κατά τη μεταφόρτωση του συνημμένου σας."
+
+#: admin/class-wordpress-helpdesk-livechat-backend.php:391
+msgid "No Chat Tickets created yet"
+msgstr "Δεν έχουν δημιουργηθεί εισιτήρια συνομιλίας"
+
+#: admin/class-wordpress-helpdesk-livechat-backend.php:395
+#, php-format
+msgid "%d Chat Tickets created yet"
+msgstr "%d Τα εισιτήρια συνομιλίας έχουν δημιουργηθεί ακόμα"
+
+#: admin/class-wordpress-helpdesk-livechat-backend.php:403
+msgid "No Author"
+msgstr "Δεν Συγγραφέας"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:88
+msgid "<h2>No Topics created so far!</h2>"
+msgstr "<h2> Δεν δημιουργήθηκαν θέματα μέχρι τώρα! </ h2>"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:221
+#: admin/class-wordpress-helpdesk-faq-post-type.php:229
+#, php-format
+msgid "View %s article"
+msgid_plural "View %s articles"
+msgstr[0] "Προβολή άρθρου %s"
+msgstr[1] "Προβολή άρθρου %s"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:255
+#: admin/class-wordpress-helpdesk-faq-post-type.php:258
+msgid "Search FAQs"
+msgstr "Συχνές ερωτήσεις αναζήτησης"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:305
+msgid "No FAQ ID set."
+msgstr "Δεν έχει οριστεί αναγνωριστικό συχνότητας."
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:311
+msgid "No FAQ found."
+msgstr "Δεν βρέθηκαν συχνές ερωτήσεις."
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:341
+#: admin/class-wordpress-helpdesk-faq-post-type.php:483
+msgid "View Article"
+msgstr "Προβολή άρθρου"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:404
+msgid "Topic ID not an ID"
+msgstr "Το αναγνωριστικό θέματος δεν είναι αναγνωριστικό"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:426
+#, php-format
+msgid "Please <a href=\"%s\" title=\"Login\">login to view this topic.</a>"
+msgstr "Παρακαλούμε <a href=\"% %s \" title=\"Login\"> συνδεθείτε για να δείτε αυτό το θέμα. </a>"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:449
+msgid "No Articles found."
+msgstr "Δεν βρέθηκαν άρθρα."
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:511
+msgid "FAQ"
+msgstr "Συχνές ερωτήσεις"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:579
+msgid "Topic"
+msgstr "Θέμα"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:580
+#: admin/widgets/faq-topics.php:63
+msgid "Topics"
+msgstr "Θέματα"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:644
+msgid "Create FAQ from this Ticket"
+msgstr "Δημιουργήστε FAQ από αυτό το εισιτήριο"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:680
+msgid "FAQ creation failed, could not find original ticket: "
+msgstr "Η δημιουργία FAQ δεν απέτυχε, δεν ήταν δυνατή η εύρεση του αρχικού εισιτηρίου: "
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:750
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Αποτελέσματα αναζήτησης για: %s"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:763
+#, php-format
+msgid "Could not find anything for: %s"
+msgstr "Δεν βρέθηκε τίποτα για: %s"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1027
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1033
+#, php-format
+msgid "Please <a href=\"%s\" title=\"Login\">login to view this faq.</a>"
+msgstr "Παρακαλούμε <a href=\"% %s \" title=\"Login\"> συνδεθείτε για να δείτε αυτό το πρόβλημα. </a>"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1044
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1045
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1059
+msgid "FAQ Terms"
+msgstr "Συνήθεις ερωτήσεις"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1062
+msgid "No Search Terms found yet"
+msgstr "Δεν βρέθηκαν ακόμα όροι αναζήτησης"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1069
+msgid "Term"
+msgstr "Ορος"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1070
+msgid "Search Counts"
+msgstr "Η αναζήτηση μετράει"
+
+#: admin/class-wordpress-helpdesk-faq-post-type.php:1071
+msgid "Articles Found"
+msgstr "Βρέθηκαν άρθρα"
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:113
+#: admin/class-wordpress-helpdesk-ticket-processor.php:131
+msgid "Username not set!"
+msgstr "Το όνομα χρήστη δεν έχει οριστεί!"
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:116
+#: admin/class-wordpress-helpdesk-ticket-processor.php:134
+msgid "Email not set!"
+msgstr "Δεν έχει οριστεί μήνυμα ηλεκτρονικού ταχυδρομείου!"
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:121
+msgid "User Exists. The comment has been created by your account."
+msgstr "Υπάρχει χρήστης. Το σχόλιο δημιουργήθηκε από το λογαριασμό σας."
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:126
+#: admin/class-wordpress-helpdesk-ticket-processor.php:152
+msgid "We created an account for you – Check your inbox!"
+msgstr "Δημιουργήσαμε λογαριασμό για εσάς - Ελέγξτε τα εισερχόμενά σας!"
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:129
+msgid "User not exists, but account could not be created."
+msgstr "Ο χρήστης δεν υπάρχει, αλλά ο λογαριασμός δεν ήταν δυνατό να δημιουργηθεί."
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:140
+msgid "Post ID not set!"
+msgstr "Το αναγνωριστικό μετάδοσης δεν έχει οριστεί!"
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:146
+msgid "Post ID not created!"
+msgstr "Το αναγνωριστικό μετάδοσης δεν δημιουργήθηκε!"
+
+#: admin/class-wordpress-helpdesk-comments-processor.php:151
+#: admin/class-wordpress-helpdesk-ticket-processor.php:178
+msgid "Message not set!"
+msgstr "Δεν έχει οριστεί μήνυμα!"
+
+#: admin/class-wordpress-helpdesk-exporter.php:40
+msgid "You are not an admin"
+msgstr "Δεν είσαστε διαχειριστής"
+
+#: admin/class-wordpress-helpdesk-exporter.php:47
+msgid "No Tickets to Export"
+msgstr "Δεν υπάρχουν εισιτήρια για εξαγωγή"
+
+#: admin/class-wordpress-helpdesk-exporter.php:53
+msgid "Your Ticket Export is ready. The Download should start automatically."
+msgstr "Η εξαγωγή εισιτηρίων σας είναι έτοιμη. Η Λήψη πρέπει να ξεκινήσει αυτόματα."
+
+#: admin/class-wordpress-helpdesk-exporter.php:55
+msgid "Something was wrong with the export generation ..."
+msgstr "Κάτι δεν συνέβη με τη γενιά των εξαγωγών ..."
+
+#: admin/class-wordpress-helpdesk-exporter.php:179
+msgid "Ticket Information"
+msgstr "Πληροφορίες εισιτηρίων"
+
+#: admin/class-wordpress-helpdesk-exporter.php:203
+msgid "System"
+msgstr "Σύστημα"
+
+#: admin/class-wordpress-helpdesk-ticket-notes.php:49
+msgid "Private Notes"
+msgstr "Ιδιωτικές σημειώσεις"
+
+#: admin/class-wordpress-helpdesk-ticket-notes.php:77
+#: admin/class-wordpress-helpdesk-ticket-notes.php:134
+#, php-format
+msgid "created on %s by %s"
+msgstr "δημιουργήθηκε στο %s κατά %s"
+
+#: admin/class-wordpress-helpdesk-ticket-notes.php:78
+#: admin/class-wordpress-helpdesk-ticket-notes.php:135
+msgid "Delete Note"
+msgstr "Διαγραφή Σημείωσης"
+
+#: admin/class-wordpress-helpdesk-ticket-notes.php:86
+msgid "Add Note"
+msgstr "Προσθήκη σημείωσης"
+
+#: admin/class-wordpress-helpdesk-ticket-notes.php:92
+msgid "Add"
+msgstr "Προσθέτω"
+
+#: admin/class-wordpress-helpdesk-ticket-notes.php:107
+msgid "Ticket Sytem"
+msgstr "Εισιτήριο Συστήματος"
+
+#: admin/class-wordpress-helpdesk-ticket-processor.php:141
+#, php-format
+msgid ""
+"Username or Email exists.  <a href=\"%s\" title=\"Login\">Please login to "
+"create a ticket</a>."
+msgstr "Όνομα χρήστη ή Email υπάρχει. <a href=\"% %s \" title=\"Login\"> Συνδεθείτε για να δημιουργήσετε ένα εισιτήριο </a>."
+
+#: admin/class-wordpress-helpdesk-ticket-processor.php:155
+#, php-format
+msgid ""
+"User not exists, but account could not be created. <a href=\"%s\" "
+"title=\"Login\">Please login first</a>!"
+msgstr "Ο χρήστης δεν υπάρχει, αλλά ο λογαριασμός δεν ήταν δυνατό να δημιουργηθεί. <a href=\"% %s \" title=\"Login\"> Συνδεθείτε πρώτα </a>!"
+
+#: admin/class-wordpress-helpdesk-ticket-processor.php:174
+msgid "Subject not set!"
+msgstr "Το θέμα δεν έχει ρυθμιστεί!"
+
+#: admin/class-wordpress-helpdesk-ticket-processor.php:184
+msgid "Purchase Code not set!"
+msgstr "Ο κωδικός αγοράς δεν έχει οριστεί!"
+
+#: admin/class-wordpress-helpdesk-ticket-processor.php:193
+#, php-format
+msgid "Purchase Code %s could not be verified!"
+msgstr "Ο κωδικός αγοράς %s δεν ήταν δυνατό να επαληθευτεί!"
+
+#: admin/class-wordpress-helpdesk-ticket-processor.php:198
+#, php-format
+msgid "Support Expired on %s – please renew!"
+msgstr "Υποστήριξη έληξε στο %s - παρακαλώ ανανεώστε!"
+
+#: admin/class-wordpress-helpdesk-ticket-processor.php:200
+#: admin/class-wordpress-helpdesk-ticket-processor.php:203
+msgid "Purchase Code verified for item: "
+msgstr "Κωδικός αγοράς που επαληθεύτηκε για το στοιχείο: "
+
+#: admin/class-wordpress-helpdesk-reports.php:38
+#: admin/class-wordpress-helpdesk-reports.php:39
+#: admin/class-wordpress-helpdesk-reports.php:257
+msgid "Reports"
+msgstr "Αναφορές"
+
+#: admin/class-wordpress-helpdesk-reports.php:84
+msgid "Date From is not valid!"
+msgstr "Η ημερομηνία δεν είναι έγκυρη!"
+
+#: admin/class-wordpress-helpdesk-reports.php:94
+msgid "Date Until is not valid!"
+msgstr "Ημερομηνία μέχρι να μην είναι έγκυρη!"
+
+#: admin/class-wordpress-helpdesk-reports.php:202
+msgid "Waiting"
+msgstr "Αναμονή"
+
+#: admin/class-wordpress-helpdesk-reports.php:217
+msgid "No Source"
+msgstr "Δεν υπάρχει πηγή"
+
+#: admin/class-wordpress-helpdesk-reports.php:259
+msgid "Date Filter"
+msgstr "Φίλτρο ημερομηνίας"
+
+#: admin/class-wordpress-helpdesk-reports.php:263
+msgid "Date From (JJJJ-MM-DD)"
+msgstr "Ημερομηνία από (JJJJ-MM-DD)"
+
+#: admin/class-wordpress-helpdesk-reports.php:267
+msgid "Date Until (JJJJ-MM-DD)"
+msgstr "Ημερομηνία μέχρι (JJJJ-MM-DD)"
+
+#: admin/class-wordpress-helpdesk-reports.php:271
+msgid "Submit"
+msgstr "υποβάλλουν"
+
+#: admin/class-wordpress-helpdesk-reports.php:276
+msgid "Filtered"
+msgstr "Φιλτραρισμένο"
+
+#: admin/class-wordpress-helpdesk-reports.php:277
+msgid "Filtered Tickets:"
+msgstr "Φιλτραρισμένα εισιτήρια:"
+
+#: admin/class-wordpress-helpdesk-reports.php:281
+msgid "Tickets by Agent"
+msgstr "Εισιτήρια από τον πράκτορα"
+
+#: admin/class-wordpress-helpdesk-reports.php:290
+msgid "Tickets by Reporter"
+msgstr "Εισιτήρια από τον ρεπόρτερ"
+
+#: admin/class-wordpress-helpdesk-reports.php:299
+msgid "Tickets by Satisfaction"
+msgstr "Εισιτήρια από Ικανοποίηση"
+
+#: admin/class-wordpress-helpdesk-reports.php:308
+msgid "Tickets by Source"
+msgstr "Εισιτήρια από την πηγή"
+
+#: admin/class-wordpress-helpdesk-reports.php:317
+msgid "Tickets by Year"
+msgstr "Εισιτήρια ανά έτος"
+
+#: admin/class-wordpress-helpdesk-reports.php:326
+msgid "Tickets by Month"
+msgstr "Εισιτήρια κατά μήνα"
+
+#: admin/class-wordpress-helpdesk-reports.php:335
+msgid "Tickets created by Year / Month"
+msgstr "Εισιτήρια που δημιουργήθηκαν από έτος / μήνα"
+
+#: admin/class-wordpress-helpdesk-reports.php:352
+msgid "Total"
+msgstr "Σύνολο"
+
+#: admin/class-wordpress-helpdesk-reports.php:353
+msgid "No Date filter applied here:"
+msgstr "Δεν εφαρμόζεται φίλτρο ημερομηνίας εδώ:"
+
+#: admin/class-wordpress-helpdesk-reports.php:356
+msgid "Tickets by Status"
+msgstr "Εισιτήρια κατά Κατάσταση"
+
+#: admin/class-wordpress-helpdesk-reports.php:365
+msgid "Tickets by Type"
+msgstr "Εισιτήρια ανά τύπο"
+
+#: admin/class-wordpress-helpdesk-reports.php:374
+msgid "Tickets by Department"
+msgstr "Εισιτήρια ανά Τμήμα"
+
+#: admin/class-wordpress-helpdesk-reports.php:383
+msgid "Tickets by Priority"
+msgstr "Εισιτήρια κατά προτεραιότητα"
+
+#: admin/class-wordpress-helpdesk-my-tickets.php:127
+msgid "Actions"
+msgstr "Ενέργειες"
+
+#: admin/class-wordpress-helpdesk-my-tickets.php:135
+msgid "No tickets submitted yet."
+msgstr "Δεν έχουν υποβληθεί ακόμα εισιτήρια."
+
+#: admin/class-wordpress-helpdesk-my-tickets.php:142
+#, php-format
+msgid "[Ticket: %s]"
+msgstr "[Εισιτήριο: %s ]"
+
+#: admin/class-wordpress-helpdesk-inbox.php:312
+#: admin/class-wordpress-helpdesk-inbox.php:373
+msgid "No Message in your Email detected."
+msgstr "Δεν εντοπίστηκε κανένα μήνυμα στο Email σας."
+
+#: admin/class-wordpress-helpdesk-inbox.php:329
+msgid ""
+"No purchase code detected. Please make sure the email contains the following "
+"pattern \"Purchase Code: XXX\"."
+msgstr "Δεν εντοπίστηκε κωδικός αγοράς. Βεβαιωθείτε ότι το μήνυμα ηλεκτρονικού ταχυδρομείου περιέχει το ακόλουθο μοτίβο \ "Κωδικός αγοράς: XXX \"."
+
+#: admin/class-wordpress-helpdesk-inbox.php:379
+msgid "Ticket ID for your Reply could not be found."
+msgstr "Δεν ήταν δυνατή η εύρεση του αναγνωριστικού εισιτηρίου για την απάντησή σας."
+
+#: admin/class-wordpress-helpdesk-inbox.php:460
+msgid "Sorry ..."
+msgstr "Συγνώμη ..."
+
+#: admin/class-wordpress-helpdesk-inbox.php:465
+msgid "Sorry we could not process your mail :("
+msgstr "Λυπούμαστε που δεν μπορούσαμε να επεξεργαστούμε το ταχυδρομείο σας :("
+
+#: admin/class-wordpress-helpdesk-inbox.php:466
+msgid "Visit our Website"
+msgstr "Επισκεφτείτε την ιστοσελίδα μας"
+
+#: includes/class-wordpress-helpdesk-activator.php:193
+msgid "Helpdesk Agent"
+msgstr "Βοηθός γραφείου υποστήριξης"
+
+#: includes/class-wordpress-helpdesk-activator.php:215
+msgid "Helpdesk Reporter"
+msgstr "Helpdesk Reporter"
+
+#: admin/widgets/faq-topics.php:6
+msgid "FAQ Topics"
+msgstr "Συχνές ερωτήσεις"
+
+#: admin/widgets/faq-topics.php:64
+msgid "Title:"
+msgstr "Τίτλος:"
+
+#: admin/widgets/faq-topics.php:72
+msgid "Menu Order"
+msgstr "Παραγγελία μενού"
+
+#: admin/widgets/faq-topics.php:74
+msgid "Slug"
+msgstr "Γυμνοσάλιαγκας"
+
+#: admin/widgets/faq-topics.php:75
+msgid "Term_group"
+msgstr "Term_group"
+
+#: admin/widgets/faq-topics.php:76
+msgid "Term_id"
+msgstr "Term_id"
+
+#: admin/widgets/faq-topics.php:77
+msgid "Id"
+msgstr "Ταυτότητα"
+
+#: admin/widgets/faq-topics.php:78
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: admin/widgets/faq-topics.php:79
+msgid "Parent"
+msgstr "Μητρική εταιρεία"
+
+#: admin/widgets/faq-topics.php:80
+msgid "Count"
+msgstr "μετρώ"
+
+#: admin/widgets/faq-topics.php:83
+msgid "Order By:"
+msgstr "Ταξινόμηση κατά:"
+
+#: admin/widgets/faq-topics.php:104
+msgid "Order:"
+msgstr "Σειρά:"
+
+#: admin/widgets/faq-live-search.php:6
+msgid "Use this to show the live ajax search for FAQs"
+msgstr "Χρησιμοποιήστε αυτήν την επιλογή για να εμφανίσετε τη ζωντανή αναζήτηση ajax για συχνές ερωτήσεις"
+
+#: admin/widgets/faq-posts.php:6
+msgid "Show some FAQs."
+msgstr "Δείτε μερικές συχνές ερωτήσεις."
+
+#: admin/widgets/faq-dynamic-posts.php:6
+msgid ""
+"Use this if you want to show FAQs dynamically based on the current users FAQ "
+"page."
+msgstr "Χρησιμοποιήστε αυτήν την επιλογή αν θέλετε να εμφανίζετε δυναμικά τις Συνήθεις Ερωτήσεις με βάση τη σελίδα Συχνές ερωτήσεις για τους τρέχοντες χρήστες."
+
+#: admin/widgets/faq-dynamic-posts.php:71
+msgid "Popular FAQs"
+msgstr "Δημοφιλείς συχνές ερωτήσεις"
+
+#: admin/views/single-faq.php:60
+#, php-format
+msgid "Viewed: %s"
+msgstr "Προβολή: %s"
+
+#: admin/views/single-ticket.php:99
+#, php-format
+msgid "Reporter: %s"
+msgstr "Δημοσιογράφος: %s"
+
+#: admin/views/single-ticket.php:101 admin/views/single-ticket.php:134
+msgid "Created on:"
+msgstr "Δημιουργήθηκε στο:"
+
+#: admin/views/single-ticket.php:102 admin/views/single-ticket.php:135
+msgid "Email:"
+msgstr "ΗΛΕΚΤΡΟΝΙΚΗ ΔΙΕΥΘΥΝΣΗ:"
+
+#: admin/views/single-ticket.php:119
+msgid "No Agent assigned yet."
+msgstr "Δεν έχει εκχωρηθεί ακόμα αντιπρόσωπος."
+
+#: admin/views/single-ticket.php:132
+#, php-format
+msgid "Agent: %s"
+msgstr "Agent: %s"
+
+#. Name of the plugin
+msgid "WordPress TotalDesk"
+msgstr "WordPress TotalDesk"
+
+#. Description of the plugin
+msgid "The All in One WordPress Helpdesk solution"
+msgstr "Η λύση All-One WordPress Helpdesk"
+
+#. URI of the plugin
+msgid "http://plugins.db-dzine.com"
+msgstr "http://plugins.db-dzine.com"
+
+#. Author of the plugin
+msgid "DB-Dzine"
+msgstr "DB-Dzine"
+
+#. Author URI of the plugin
+msgid "http://www.db-dzine.de"
+msgstr "http://www.db-dzine.de"
+

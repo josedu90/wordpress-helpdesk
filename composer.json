@@ -1,0 +1,15 @@
+{
+  "name": "wordpress-helpdesk",
+  "description": "",
+  "authors": [
+      {
+          "name": "Daniel Barenkamp",
+          "email": "support@db-dzine.com"
+      }
+  ],
+  "require":{
+    "phpoffice/phpexcel": "^1.8",
+    "php-imap/php-imap": "~2.0",
+    "maknz/slack": "^1.7"
+  }
+}
